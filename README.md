@@ -17,3 +17,7 @@ Por último, se ha escrito un Script que se encarga de mostrar por consola la po
 A continuación se observa un GIF animado mostrando el comportamiento del Script:
 
 ![Gif animado mostrando el comportamiento del Script](./docs/p01_II.gif)
+
+Además, se añade una foto en detalle de las posiciones mostradas por el Script:
+
+![Foto en detalle de las posiciones mostradas](./docs/posiciones_ampliadas.png)
